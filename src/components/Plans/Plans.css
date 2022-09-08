@@ -6,8 +6,21 @@
   gap: 4rem;
   position: relative;
 }
-.programs-header {
+
+.plans-blur-1 {
+  width: 32rem;
+  height: 23rem;
+  top: 6rem;
+  left: 0;
 }
+
+.plans-blur-2 {
+  width: 32rem;
+  height: 23rem;
+  top: 10rem;
+  right: 0;
+}
+
 .plans {
   display: flex;
   align-items: center;
